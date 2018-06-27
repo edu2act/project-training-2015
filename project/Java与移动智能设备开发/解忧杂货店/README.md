@@ -40,7 +40,7 @@
 
 <p>
 <img src="./image/logo-欢迎页.png" width=250 height=400 />
-<img src="./image/首页.png" width=250 height=400 />
+<img src="./image/首页.jpg" width=250 height=400 />
 <img src="./image/ta的帖子.png" width=250 height=400 />
 </p>
 <p>
