@@ -37,7 +37,7 @@
 
 <p>
 <img src="./image/登录页面.png" width=250 height=400 />
-<img src="./image/欢迎界面.jpg" width=250 height=400 />
+<img src="./image/欢迎界面.png" width=250 height=400 />
 <img src="./image/首页.png" width=250 height=400 />
 </p>
 <p>
