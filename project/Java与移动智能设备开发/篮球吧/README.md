@@ -1,6 +1,6 @@
 <img src="../../../image/logo.png"/>
 
-# 2015级项目实训成果展示 [![Travis](https://img.shields.io/travis/rust-lang/rust.svg)]()
+# 2015级项目实训成果展示 
 
 ## 《篮球吧》 - Java与移动智能设备开发
 
