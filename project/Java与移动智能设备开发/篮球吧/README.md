@@ -53,11 +53,6 @@
 <img src="./image/完成比赛写入数据.png" width=250 height=400 />
 <img src="./image/已经创建房间不能再次创建.png" width=250 height=400 />
 </p>
-<p>
-<img src="./image/手机登录界面.png" width=250 height=400 />
-<img src="./image/首页界面.png" width=250 height=400 />
-<img src="./image/搜索界面.png" width=250 height=400 />
-</p>
 
 #### 注册登录
 <p>
