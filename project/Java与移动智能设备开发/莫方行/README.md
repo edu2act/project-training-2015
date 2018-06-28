@@ -70,6 +70,6 @@
 </p>
 <p>
 <img src="./image/队伍搜索.png" width=250 height=400 />
-<img src="./image/队伍信息png" width=250 height=400 />
+<img src="./image/队伍信息.png" width=250 height=400 />
 <img src="./image/找玩伴.png" width=250 height=400 />
 </p>
