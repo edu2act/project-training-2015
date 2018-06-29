@@ -35,31 +35,31 @@
 ### 项目截图
 
 <p>
-<img src="./image/侧滑个人信息.png" width=250 height=400 />
-<img src="./image/发现页面.png" width=250 height=400 />
-<img src="./image/用户登录.png" width=250 height=400 />
+<img src="./image/侧滑个人信息.jpg" width=250 height=400 />
+<img src="./image/发现页面.jpg" width=250 height=400 />
+<img src="./image/用户登录.jpg" width=250 height=400 />
 </p>
 <p>
-<img src="./image/启用欢迎页.png" width=250 height=400 />
-<img src="./image/商家登陆.png" width=250 height=400 />
-<img src="./image/商家端主界面.png" width=250 height=400 />
+<img src="./image/启用欢迎页.jpg" width=250 height=400 />
+<img src="./image/商家登陆.jpg" width=250 height=400 />
+<img src="./image/商家端主界面.jpg" width=250 height=400 />
 </p>
 <p>
-<img src="./image/商家信息.png" width=250 height=400 />
-<img src="./image/商家注册.png" width=250 height=400 />
-<img src="./image/商品界面—商家端.png" width=250 height=400 />
+<img src="./image/商家信息.jpg" width=250 height=400 />
+<img src="./image/商家注册.jpg" width=250 height=400 />
+<img src="./image/商品界面—商家端.jpg" width=250 height=400 />
 </p>
 <p>
-<img src="./image/商品收藏.png" width=250 height=400 />
-<img src="./image/商品信息.png" width=250 height=400 />
-<img src="./image/设置.png" width=250 height=400 />
+<img src="./image/商品收藏.jpg" width=250 height=400 />
+<img src="./image/商品信息.jpg" width=250 height=400 />
+<img src="./image/设置.jpg" width=250 height=400 />
 </p>
 <p>
-<img src="./image/搜索.png" width=250 height=400 />
-<img src="./image/添加商品.png" width=250 height=400 />
-<img src="./image/消息中心.png" width=250 height=400 />
+<img src="./image/搜索.jpg" width=250 height=400 />
+<img src="./image/添加商品.jpg" width=250 height=400 />
+<img src="./image/消息中心.jpg" width=250 height=400 />
 </p>
 <p>
-<img src="./image/关注页.png" width=250 height=400 />
-<img src="./image/用户注册.png" width=250 height=400 />
+<img src="./image/关注页.jpg" width=250 height=400 />
+<img src="./image/用户注册.jpg" width=250 height=400 />
 </p>
