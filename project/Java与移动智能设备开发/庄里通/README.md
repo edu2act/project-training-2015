@@ -19,9 +19,6 @@
 - 王玉波（软件架构师、软件开发工程师）
 	- Email：[459282174@qq.com ](mailto:459282174@qq.com)
 	- Github：[https://github.com/wangyubo880](https://github.com/wangyubo880)
-- 杨永昊（研发人员、开发工程师）
-	- Email：[15531809228@sina.cn](mailto:15531809228@sina.cn)
-	- Github：[https://github.com/xiaoHaoZ1](https://github.com/xiaoHaoZ1)
 - 李静敏（项目经理、软件开发工程师）
 	- Email：[1394013446@qq.com](mailto:1394013446@qq.com)
 	- Github：[https://github.com/lijingmin-2](https://github.com/lijingmin-2)
