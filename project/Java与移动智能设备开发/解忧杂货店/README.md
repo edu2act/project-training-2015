@@ -71,4 +71,19 @@
 <p>
 <img src="./image/音乐库.png" width=250 height=400 />
 <img src="./image/账号管理.png" width=250 height=400 />
+<img src="./image/发文宣泄.png" width=250 height=400 />
+</p>
+<p>
+<img src="./image/每日励志.png" width=250 height=400 />
+<img src="./image/申请成为心灵大师.png" width=250 height=400 />
+<img src="./image/树洞读信.png" width=250 height=400 />
+</p>
+<p>
+<img src="./image/树洞回信.png" width=250 height=400 />
+<img src="./image/树洞取信.png" width=250 height=400 />
+<img src="./image/我的回信.png" width=250 height=400 />
+</p>
+<p>
+<img src="./image/个人资料.png" width=250 height=400 />
+<img src="./image/会话列表.png" width=250 height=400 />
 </p>
