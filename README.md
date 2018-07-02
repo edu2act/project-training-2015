@@ -43,3 +43,15 @@
 |[悦动](./project/HTML5与移动互联网开发/悦动)|是一款为喜爱运动者提供信息交流、约一场酣畅淋漓运动的APP。|
 |[知家](./project/HTML5与移动互联网开发/知家)|是一款面向城市小区业主与物业，集物业管理、小区公告、业主论坛、家庭服务、生活缴费于一体的社区交流APP。|
 
+### Python与机器学习
+|项目名称|简介 |
+|:---|:---|
+|[HCI_lite](/project/Python与机器学习/HCI_lite)||
+|[predict_frame](/project/Python与机器学习/predict_frame)||
+|[SZA智能表情生成系统](/project/Python与机器学习/SZA智能表情生成系统)||
+|[ZTOnlineJudge](/project/Python与机器学习/ZTOnlineJudge)||
+|[风格转换](/project/Python与机器学习/风格转换)||
+|全脸检测与识别系统||
+|人脸签到系统||
+|手写汉字识别||
+|智能小助手||
