@@ -52,7 +52,7 @@
 |[SZA智能表情生成系统](/project/Python与机器学习/SZA智能表情生成系统)||
 |[ZTOnlineJudge](/project/Python与机器学习/ZTOnlineJudge)||
 |[风格转换](/project/Python与机器学习/风格转换)||
-|全脸检测与识别系统||
+|[全脸检测与识别系统](/project/Python与机器学习/全脸检测与识别系统)||
 |人脸签到系统||
 |手写汉字识别||
 |智能小助手||
