@@ -33,7 +33,7 @@
 |:---|:---|
 |[I宠APP](./project/HTML5与移动互联网开发/I宠APP)||
 |[PET](./project/HTML5与移动互联网开发/PET)||
-|[Refined-Resume](./project/HTML5与移动互联网开发/Refined-Resume)||
+|[Refined-Resume](./project/HTML5与移动互联网开发/RefinedResume)||
 |[点点APP](./project/HTML5与移动互联网开发/点点APP)||
 |[口袋医生](./project/HTML5与移动互联网开发/口袋医生)||
 |[全民旅游](./project/HTML5与移动互联网开发/全民旅游)||
