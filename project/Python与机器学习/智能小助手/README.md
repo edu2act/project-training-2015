@@ -12,7 +12,7 @@
 
  小Sun是集对话、推荐、搜索、翻译功能为一体的智能机器人，为使用者的生活提供便利与温暖。
 
-### 成员信息：
+### 成员信息
 
 - 张进（产品，开发，维护，测试）
 	- Email：<15732115297@163.com>
@@ -20,3 +20,19 @@
 - 马妍博（产品，UI设计，开发，测试）
 	- Email：<601542506@qq.com>
 	- GitHub：[https://github.com/Mamama123](https://github.com/Mamama123)
+
+### 项目截图
+
+
+![](image/1.png)
+
+![](image/2.jpg)
+
+![](image/3.png)
+
+![](image/4.jpg)
+
+![](image/5.png)
+
+![](image/6.png)
+

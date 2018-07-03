@@ -23,3 +23,11 @@ SZA基于Keras，采用均方误差代价函数训练由4个ReLU层和1个Sigmoi
 夏广伟（前端设计，服务器代码开发）
 - Email: 374573868@qq.com
 - GitHub: https://github.com/GuangweiXia
+
+### 项目截图
+
+
+![](image/1.png)
+
+![](image/2.png)
+

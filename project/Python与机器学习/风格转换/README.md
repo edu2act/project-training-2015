@@ -7,8 +7,6 @@
 
 [Github](https://github.com/yanzhengbin/Neural_Style_Transform)
 
-[Redmine](./readmine.md)
-
 [项目的具体原理](./explain.md)
 
 
