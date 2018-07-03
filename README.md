@@ -4,7 +4,7 @@
 
 - [Java与移动智能设备开发](#java与移动智能设备开发)
 - [HTML5与移动互联网开发](#html5与移动互联网开发)
--[Python与机器学习](#python与机器学习)
+- [Python与机器学习](#python与机器学习)
 
 ### Java与移动智能设备开发
 |项目名称|简介 |
@@ -53,6 +53,6 @@
 |[ZTOnlineJudge](/project/Python与机器学习/ZTOnlineJudge)||
 |[风格转换](/project/Python与机器学习/风格转换)||
 |[全脸检测与识别系统](/project/Python与机器学习/全脸检测与识别系统)||
-|人脸签到系统||
-|手写汉字识别||
-|智能小助手||
+|[人脸签到系统](/project/Python与机器学习/人脸签到系统)||
+|[手写汉字识别](/project/Python与机器学习/手写汉字识别)||
+|[智能小助手](/project/Python与机器学习/智能小助手)||
