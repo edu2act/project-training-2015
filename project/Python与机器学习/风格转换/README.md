@@ -36,27 +36,27 @@
 
 |  | 《星月夜》 |时光塔|  《星月夜》版时光塔   |
 |:---:|:-----:|:-----:|:--------:|
-| 展示  | <img src='md_image/style_denoised_starry.jpg'> | <img src='md_image/timetower.jpg' width=400 height=256> |<img src='md_image/timetower_gen.jpg' width=400 height=256> |
+| 展示  | <img src='./image/style_denoised_starry.jpg'> | <img src='./image/timetower.jpg' width=400 height=256> |<img src='./image/timetower_gen.jpg' width=400 height=256> |
 
 |  | 《wave》 |时光塔|  《wave》版时光塔   |
 |:---:|:-----:|:-----:|:--------:|
-| 展示  | <img src='md_image/wave.jpg' width=256 height=256> | <img src='md_image/timetower.jpg' width=400 height=256> |<img src='md_image/wave_time.jpg' width=400 height=256> |
+| 展示  | <img src='./image/wave.jpg' width=256 height=256> | <img src='./image/timetower.jpg' width=400 height=256> |<img src='./image/wave_time.jpg' width=400 height=256> |
 
 |  | 《cubist》 |时光塔|  《cubist》版时光塔   |
 |:---:|:-----:|:-----:|:--------:|
-| 展示  | <img src='md_image/cubist.jpg' width=256 height=256> | <img src='md_image/timetower.jpg' width=400 height=256> |<img src='md_image/cubist_time.jpg' width=400 height=256> |
+| 展示  | <img src='./image/cubist.jpg' width=256 height=256> | <img src='./image/timetower.jpg' width=400 height=256> |<img src='./image/cubist_time.jpg' width=400 height=256> |
 
 #### 首页
 
-<img src='md_image/home.jpg'>
+<img src='./image/home.jpg'>
 
 #### 转换界面
 
-<img src='md_image/scre.jpg' >
+<img src='./image/scre.jpg' >
 
 #### 完成界面
 
-<img src='md_image/trans.jpg'>
+<img src='./image/trans.jpg'>
 
 ### 项目主题
 
