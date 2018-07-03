@@ -47,12 +47,12 @@
 ### Python与机器学习
 |项目名称|简介 |
 |:---|:---|
-|[HCI_lite](/project/Python与机器学习/HCI_lite)||
-|[predict_frame](/project/Python与机器学习/predict_frame)||
-|[SZA智能表情生成系统](/project/Python与机器学习/SZA智能表情生成系统)||
-|[ZTOnlineJudge](/project/Python与机器学习/ZTOnlineJudge)||
-|[风格转换](/project/Python与机器学习/风格转换)||
-|[全脸检测与识别系统](/project/Python与机器学习/全脸检测与识别系统)||
-|[人脸签到系统](/project/Python与机器学习/人脸签到系统)||
-|[手写汉字识别](/project/Python与机器学习/手写汉字识别)||
-|[智能小助手](/project/Python与机器学习/智能小助手)||
+|[HCI_lite](/project/Python与机器学习/HCI_lite)|A lite human computer interaction system, mainly dependent on you 'handler' in your webcam, including 5 modes which are illustrated simplicitly behind.|
+|[predict_frame](/project/Python与机器学习/predict_frame)|一个用于预测补全动漫缺失帧的深度学习模型。本模型实现效果为：提供一小段视频中的16帧图像，生成预测另外16帧图像。|
+|[SZA智能表情生成系统](/project/Python与机器学习/SZA智能表情生成系统)|一个可以根据用户输入的表情，基于图像检索技术提供与其输入相似图片的系统，基于用户的输入以及数据集的不同，可以实现任何种类图片的检索。|
+|[ZTOnlineJudge](/project/Python与机器学习/ZTOnlineJudge)|该项目是面向在校大学生和指导老师使用的在线评测网站。|
+|[风格转换](/project/Python与机器学习/风格转换)|图像风格迁移是一种基于深度学习的图像处理程序，这款产品是通过深度神经网络将图像的风格转换为另一种风格。|
+|[全脸检测与识别系统](/project/Python与机器学习/全脸检测与识别系统)|一个主要利用深度学习分析比较人脸视觉特征信息进行身份鉴别的人脸识别系统。|
+|[人脸签到系统](/project/Python与机器学习/人脸签到系统)|录入人脸信息，便可使用人脸进行签到的系统。|
+|[手写汉字识别](/project/Python与机器学习/手写汉字识别)|一个能够识别手写汉字的网站系统。|
+|[智能小助手](/project/Python与机器学习/智能小助手)|集成了聊天机器人、翻译、音乐搜索与播放、电影搜索与购票等功能的桌面小助手。|
