@@ -29,7 +29,6 @@ SNSÊÇÒ»¸öÆ½Ì¨£¬½¨Á¢ÈËÓëÈËÖ®¼äµÄÉç½»ÍøÂç»òÉç½»¹ØÏµµÄÁ¬½Ó¡£ÀýÈç£¬ÀûÒæ¹²Ïí¡¢»î¶¯¡¢±
 ### ÔËÐÐÐ§¹û
 
 ![ÏîÄ¿½ØÍ¼](./image/1.PNG)
-![ÏîÄ¿½ØÍ¼](./image/2.PNG)
 ![ÏîÄ¿½ØÍ¼](./image/3.PNG)
 ![ÏîÄ¿½ØÍ¼](./image/4.PNG)
 ![ÏîÄ¿½ØÍ¼](./image/5.PNG)
