@@ -43,24 +43,26 @@
 	* Email: <920599701@qq.com>
 	* Github : [https://github.com/leesen-lixin](https://github.com/leesen-lixin)
 
-* 李鑫 (服务器代码开发，测试)
+* 康泽壮 (服务器代码开发，测试)
 	* Email: <820054960@qq.com>
 	* Github : [https://github.com/engesi](https://github.com/engesi)
     
 
 ### 运行效果
 
-<img src="image/1.png" width=250 height=400 />
-<img src="image/2.jpg" width=250 height=400 />
-<img src="image/3.jpg" width=250 height=400 />
+![](image/1.png)
+![](image/2.png)
+![](image/3.png)
+![](image/4.png)
+![](image/5.png)
+![](image/6.png)
+![](image/7.png)
+![](image/8.png)
+![](image/9.png)
+![](image/10.jpg)
+![](image/11.jpg)
+![](image/12.png)
+![](image/13.png)
+![](image/14.png)
+![](image/15.jpg)
 
-<img src="image/4.jpg" width=250 height=400 />
-<img src="image/5.png" width=250 height=400 />
-<img src="image/6.png" width=250 height=400 />
-
-<img src="image/7.png" width=250 height=400 />
-<img src="image/8.png" width=250 height=400 />
-<img src="image/9.png" width=250 height=400 />
-
-<img src="image/10.jpg" width=250 height=400 />
-<img src="image/11.jpg" width=250 height=400 />
