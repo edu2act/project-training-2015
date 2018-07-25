@@ -2,11 +2,19 @@
 
 # 2015级项目实训成果展示 
 
+## 获奖项目
+- 一等奖 《[智能题库](./project/Java与大数据分析/智能题库)》
+- 二等奖 《[解忧杂货店](./project/Java与移动智能设备开发/解忧杂货店)》、《[OJSystem](./project/Java与移动智能设备开发/OJSystem)》
+- 三等奖  《[HCI_lite](./project/Python与机器学习/HCI_lite)》、《[研路](./project/HTML5与移动互联网开发/研路)》、《[吃享](./project/Java与移动智能设备开发/吃享)》
+
+## 参与展示方向
+
 - [Java与移动智能设备开发](#java与移动智能设备开发)
 - [HTML5与移动互联网开发](#html5与移动互联网开发)
 - [Python与机器学习](#python与机器学习)
 - [Java与大数据分析](#java与大数据分析)
 - [PHP与云计算技术](#php与云计算技术)
+
 
 ### Java与移动智能设备开发
 |项目名称|简介 |
