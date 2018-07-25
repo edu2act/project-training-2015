@@ -89,48 +89,48 @@ Sugarcane线下课程推荐网站 -- 一个个性化推荐平台，可以根据�
 
 #### 首页
 
-<img src="./image/首页.png" width="300px" height="200px"/>
+<img src="./image/首页.png" width="600px" height="400px"/>
 
 #### 完善个人信息页面
   
-<img src="./image/完善个人信息.png" width="300px" height="200px"/>
+<img src="./image/完善个人信息.png" width="600px" height="400px"/>
 
 #### 添加课程页面
   
-<img src="./image/添加课程页面.png" width="300px" height="200px"/>
+<img src="./image/添加课程页面.png" width="600px" height="400px"/>
 
 #### 搜索页面
   
- <img src="./image/搜索页面.png" width="300px" height="200px"/>
+ <img src="./image/搜索页面.png" width="600px" height="400px"/>
 
 #### 重置密码页面
   
-<img src="./image/重置密码.png" width="300px" height="200px"/>
+<img src="./image/重置密码.png" width="600px" height="400px"/>
 
 #### 收藏页面
   
-<img src="./image/收藏页面.png" width="300px" height="200px"/>
+<img src="./image/收藏页面.png" width="600px" height="400px"/>
 
 #### 全部课程页面
   
-<img src="./image/全部课程页面.png" width="300px" height="200px"/>
+<img src="./image/全部课程页面.png" width="600px" height="400px"/>
 
 #### 课程详情页面
   
-<img src="./image/课程详情页.png" width="300px" height="200px"/>
+<img src="./image/课程详情页.png" width="600px" height="400px"/>
 
 #### 培训机构登录页面
   
-<img src="./image/培训机构登录.png" width="300px" height="200px"/>
+<img src="./image/培训机构登录.png" width="600px" height="400px"/>
 
 #### 管理课程页面
   
-<img src="./image/管理课程页面.png" width="300px" height="200px"/>
+<img src="./image/管理课程页面.png" width="600px" height="400px"/>
 
 ####  个人信息页面
   
-<img src="./image/个人信息页面.png" width="300px" height="200px"/>
+<img src="./image/个人信息页面.png" width="600px" height="400px"/>
 
 #### 绑定邮箱找回密码页面
   
-<img src="./image/绑定邮箱找回密码.png" width="300px" height="200px"/>
+<img src="./image/绑定邮箱找回密码.png" width="600px" height="400px"/>
